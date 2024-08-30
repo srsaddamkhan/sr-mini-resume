@@ -202,7 +202,9 @@ a:hover, a:focus, a:active {
 }
 
 .footer-bottom a {
-  color: #333;;
+  color: #0056b3;
+  font-weight: 600;
+  font-family: system-ui;
   text-decoration: none;
 }
 
