@@ -1,5 +1,5 @@
 # sr-mini-resume
-Mine updated resume here...
+Mine updated mini resume here...
 
 [Sr Mini Resume Software] Date. 06-09-2024
 © All Rights Reserved. Design Developed & Maintained by Sr SoftLink 
