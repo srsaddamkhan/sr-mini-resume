@@ -1,4 +1,4 @@
-# sr-common-resume
+# sr-mini-resume
 Mine updated resume here...
 
 [Sr Mini Resume Software] Date. 06-09-2024
