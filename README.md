@@ -1,13 +1,13 @@
 # sr-common-resume
 Mine updated resume here...
 
-[Sr Common Resume Software] Date. 06-09-2024
+[Sr Mini Resume Software] Date. 06-09-2024
 © All Rights Reserved. Design Developed & Maintained by Sr SoftLink 
 [Founder & CEO => Md Shaddam Hossein/Sr Saddam Khan]
 
-Sr Common Resume Software - Overview
+Sr Mini Resume Software - Overview
 
-Sr Common Resume is a comprehensive software solution designed to help users create and showcase their professional resumes online. 
+Sr Mini Resume is a comprehensive software solution designed to help users create and showcase their professional resumes online. 
 This platform goes beyond a traditional resume by incorporating additional sections that highlight key aspects of a professional’s career and services.
 
 
