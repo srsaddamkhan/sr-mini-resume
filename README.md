@@ -2,7 +2,7 @@
 Mine updated mini resume here...
 
 [Sr Mini Resume Software] Date. 06-09-2024
-© All Rights Reserved. Design Developed & Maintained by Sr SoftLink 
+© All Rights Reserved. Design Developed & Maintained by SR SoftStars
 [Founder & CEO => Md Shaddam Hossein/Sr Saddam Khan]
 
 Sr Mini Resume Software - Overview
